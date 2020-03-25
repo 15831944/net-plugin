@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMH93x5D96U3clslKZpxxhMOtwCT1XmmtRj4hG5zyFnXFzNkXJTuVMgUoD8vVMHV/moNjFlfB0UPCaaVKtsmiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\Documents\\GitHub\\net-plugin\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

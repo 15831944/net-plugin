@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WpfCustomControlLibrary": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2020\\acad.exe",
+      "commandLineArgs": "/nologo"
+    }
+  }
+}

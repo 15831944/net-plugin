@@ -1,0 +1,14 @@
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary.deps.json
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary.dll
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary.pdb
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.csprojAssemblyReference.cache
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary_MarkupCompile.cache
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary_MarkupCompile.lref
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.g.resources
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.AssemblyInfoInputs.cache
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.AssemblyInfo.cs
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.dll
+C:\Users\alexm\Documents\GitHub\net-plugin\WpfCustomControlLibrary\WpfCustomControlLibrary\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary.pdb
